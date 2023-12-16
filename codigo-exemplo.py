@@ -8,3 +8,12 @@ def cadastrar_produtos(produto):
     # negócio
     pass
 
+def mostrar_produtos():
+    # Aqui
+    # vai 
+    # toda
+    # a
+    # lógica
+    # de
+    # negócio
+    pass
